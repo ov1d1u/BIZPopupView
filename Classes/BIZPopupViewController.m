@@ -129,6 +129,7 @@
 {
     [super viewDidLayoutSubviews];
     [self setupContentViewPosition];
+    [self.view layoutSubviews];
 }
 
 - (void)viewDidLoad
