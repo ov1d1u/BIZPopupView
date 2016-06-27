@@ -1,7 +1,7 @@
 
 {
   "name": "BIZPopupView",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "BIZPopupView is a custom popup as ContentView of that can be used any content of UIViewController. Can be used as custom alert.",
   "homepage": "https://github.com/bizibizi/BIZPopupView",
   "license": {
@@ -16,7 +16,7 @@
   },
   "source": {
     "git": "https://github.com/bizibizi/BIZPopupView.git",
-    "tag": "1.0.0"
+    "tag": "1.0.1"
   },
   "source_files": "Classes/*.{h,m}",
   "public_header_files": "Classes/*.h",
